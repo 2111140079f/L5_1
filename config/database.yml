@@ -28,6 +28,7 @@ production:
   database: l5_v2ya
   username: l5_v2ya_user
   # database: test_render_h3kh
+  #adparu
   # username: test_render_h3kh_user
   password: <%= ENV['MYSITE_DATABASE_PASSWORD'] %>
   url: <%= ENV['DATABASE_URL'] %>
